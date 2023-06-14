@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(75,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(100,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(123,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(148,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(171,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(194,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(217,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(357): warning C4715: 'chooseFirstPokemon': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(404): warning C4715: 'takeDecision': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(86): warning C4715: 'Pikachu::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(136): warning C4715: 'Charmander::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(111): warning C4715: 'Bulbasaur::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(182): warning C4715: 'Eevee::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(159): warning C4715: 'Squirtle::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(227): warning C4715: 'Butterfree::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(205): warning C4715: 'Pidgey::attack': not all control paths return a value
+C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\Pokemon Into the Pokeball\main.cpp(36): warning C4715: 'Pokemon::getTYPE': not all control paths return a value
+  Pokemon Into the Pokeball.vcxproj -> C:\Users\Admin\Documents\Coding\C++\Pokemon Into the Pokeball\x64\Debug\Pokemon Into the Pokeball.exe
