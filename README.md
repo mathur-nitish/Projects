@@ -1,15 +1,15 @@
 # Projects
-# C++
+## C++
 ```
 Dictionary Terms
 ```
-# C#
+## C#
 ```
 Note Taker Application
 Music Player
 Tic Tac Toe
 ```
-# Games
+## Games
 ```
 Pokemon : Into the Pokeball
 RPG Player Creation
