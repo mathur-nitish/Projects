@@ -1,10 +1,17 @@
 # Projects
 # C++
->Dictionary Terms
+```
+Dictionary Terms
+```
 # C#
->Note Taker Application
->Music Player
+```
+Note Taker Application
+Music Player
+Tic Tac Toe
+```
 # Games
->Pokemon:Into the Pokeball
->RPG Character Creation
->Tic Tac Toe
+```
+Pokemon : Into the Pokeball
+RPG Player Creation
+Tic Tac Toe
+```
