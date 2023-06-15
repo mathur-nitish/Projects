@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\bin\Debug\Tic Tac Tor.exe.config
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\bin\Debug\Tic Tac Tor.exe
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\bin\Debug\Tic Tac Tor.pdb
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic_Tac_Tor.TicTacToe.resources
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic_Tac_Tor.Properties.Resources.resources
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.exe
+C:\Users\Admin\Documents\Coding\Apps  (C#)\Tic Tac Tor\Tic Tac Tor\obj\Debug\Tic Tac Tor.pdb

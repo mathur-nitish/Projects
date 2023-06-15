@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\bin\Debug\My NoteTaker.exe.config
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\bin\Debug\My NoteTaker.exe
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\bin\Debug\My NoteTaker.pdb
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My_NoteTaker.NoteTaker.resources
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My_NoteTaker.Properties.Resources.resources
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.exe
+C:\Users\Admin\Documents\Coding\Apps  (C#)\My NoteTaker\My NoteTaker\obj\Debug\My NoteTaker.pdb
