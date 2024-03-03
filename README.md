@@ -14,6 +14,10 @@ Linear Regression
 ```
 Salary Prediction
 ```
+Recommender System
+```
+Movie recommender system
+```
 ## Games
 ```
 Pokemon : Into the Pokeball
