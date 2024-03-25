@@ -14,6 +14,14 @@ Linear Regression
 ```
 Salary Prediction
 ```
+Logistic Regression
+```
+Breast Cancer Classification
+```
+Unsupervised Learning
+```
+Mall Customer Spending Analysis - K-Means Clustering
+```
 Recommender System
 ```
 Movie recommender system
