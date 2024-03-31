@@ -15,6 +15,9 @@
 - Mall Customer Spending Segmentation - K-Means Clustering
 ### Recommender System
 - Movie Recommender system - Content Based
+### Deep Learning
+#### Artificial Neural Network
+- [Combined Power Plant Energy Prediction using Artificial Neural Network [90% R2_Score]](https://github.com/mathur-nitish/Combined-Power-Plant-Energy-Prediction-ANN-)
 # Virtual Reality Experiences and Games (Unreal Engine and C++ Console Application Games)
 
 ### Unreal Engine
