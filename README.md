@@ -1,5 +1,9 @@
-# Console Application - C++
-- Dictionary Terms
+
+# C++,C# Development
+- Pokemon : Into the Pokeball
+- RPG Player Creation
+- [Custom Own C++ Wrapper for MySQL C/C++ Connector](https://github.com/mathur-nitish/Wrapper-for-MySQL---Structured-Query-Language)<br>
+- Tic Tac Toe
 
 # Windows Application - C#
 - Note Taker Application
@@ -36,8 +40,4 @@ Did Lighting and Desiging, Lumen Global Illumination, Reflections, SM5Shaders, a
 Optimized for Oculus Quest 2 (not standalone, to get better fps) <br>
 [Here](https://www.linkedin.com/posts/mathur-nitish_godrejproperties-unrealengine5-virtualrealityexperience-activity-7100340100076630017-vmlo?utm_source=share&utm_medium=member_desktop)
 
-# C++,C# Games
-- Pokemon : Into the Pokeball
-- RPG Player Creation
-- Tic Tac Toe
 
