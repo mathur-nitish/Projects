@@ -1,12 +1,12 @@
 # C++ Development
-- Pokemon : Into the Pokeball
-- RPG Player Creation
+- [Pokemon : Into the Pokeball](https://github.com/mathur-nitish/Pokemon-Into-the-Pokeball)
+- [RPG Player Creation](https://github.com/mathur-nitish/Projects/tree/main/Games/RPG%20Player%20Creation)
 - [Custom Own C++ Wrapper for MySQL C/C++ Connector](https://github.com/mathur-nitish/Wrapper-for-MySQL---Structured-Query-Language)<br>
 
-# Machine Learning and Deep Learning
-### Supervised Learning
+# ML,DL and Data Science
 - [Website-Phishing classification](https://github.com/mathur-nitish/Website-Phishing-Classification/tree/main)<br>
 - [Sentiment Analysis](https://github.com/mathur-nitish/Sentiment-Analysis)
+- [LokSabha-Elections 2024 Analysis - Extracting 5 insights](https://github.com/mathur-nitish/LokSabha-Elections-2024-Analysis)
 - Breast Cancer Classification - Logistic Regression<br>
 - 50 Startups Success Predictor - Multiple Regression<br>
 - Salary Prediction - Linear Regression, Logistic Regression<br>
