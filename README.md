@@ -6,6 +6,7 @@
 # Machine Learning and Deep Learning
 ### Supervised Learning
 - [Website-Phishing classification](https://github.com/mathur-nitish/Website-Phishing-Classification/tree/main)<br>
+- [Sentiment Analysis](https://github.com/mathur-nitish/Sentiment-Analysis)
 - Breast Cancer Classification - Logistic Regression<br>
 - 50 Startups Success Predictor - Multiple Regression<br>
 - Salary Prediction - Linear Regression, Logistic Regression<br>
