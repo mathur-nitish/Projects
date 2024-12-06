@@ -4,17 +4,19 @@
 - [Custom Own C++ Wrapper for MySQL C/C++ Connector](https://github.com/mathur-nitish/Wrapper-for-MySQL---Structured-Query-Language)<br>
 
 # ML,DL and Data Science
-## Basic Projects
-- [Salary Prediction - Linear Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/Salary%20Prediction.ipynb)<br>
-- [Breast Cancer Classification - Logistic Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/BreastCancerClassification.ipynb)<br>
-- [50 Startups Success Predictor - Multiple Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/50Startups_MultipleReg.ipynb)<br>
-- [Mall Customer Spending Segmentation - K-Means Clustering](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/KNN_Clustering.ipynb)
+
 ## Projects
 - [Website-Phishing classification](https://github.com/mathur-nitish/Website-Phishing-Classification/tree/main)<br>
 - [Sentiment Analysis](https://github.com/mathur-nitish/Sentiment-Analysis)
 - [LokSabha-Elections 2024 Analysis - Extracting 5 insights](https://github.com/mathur-nitish/LokSabha-Elections-2024-Analysis)
 - [Movie Recommender system - Content Based](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/Movie_Recommender_System.ipynb)
 - [Combined Power Plant Energy Prediction using Artificial Neural Network [90% R2_Score]](https://github.com/mathur-nitish/Combined-Power-Plant-Energy-Prediction-ANN-)
+  
+## Basic Projects
+- [Salary Prediction - Linear Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/Salary%20Prediction.ipynb)<br>
+- [Breast Cancer Classification - Logistic Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/BreastCancerClassification.ipynb)<br>
+- [50 Startups Success Predictor - Multiple Regression](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/50Startups_MultipleReg.ipynb)<br>
+- [Mall Customer Spending Segmentation - K-Means Clustering](https://github.com/mathur-nitish/Projects/blob/main/Machine%20Learning/KNN_Clustering.ipynb)
 
 # Virtual Reality Experiences and Games (Unreal Engine and C++ Console Application Games)
 ### Unreal Engine
