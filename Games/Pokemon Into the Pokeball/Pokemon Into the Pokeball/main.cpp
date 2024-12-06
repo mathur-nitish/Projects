@@ -93,7 +93,7 @@ public:
 	}
 
 	void printAttackList() {
-		cout << "\n\t1:Wine Whip";
+		cout << "\n\t1:Vine Whip";
 		cout << "\n\t2:Razor Leaf";
 	}
 	int selectAttack(int input) {
@@ -187,7 +187,7 @@ public:
 	Pidgey(string name, int n, int hp) : Pokemon("Pidgey", 1, 145) {
 	}
 	void printAttackList() {
-		cout << "\n\t1:Water Gun";
+		cout << "\n\t1:Gust";
 		cout << "\n\t2:Tackle";
 	}
 	int selectAttack(int input) {
