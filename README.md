@@ -2,7 +2,7 @@
 - [Pokemon : Into the Pokeball](https://github.com/mathur-nitish/Pokemon-Into-the-Pokeball)
 - [RPG Player Creation](https://github.com/mathur-nitish/Projects/tree/main/Games/RPG%20Player%20Creation)
 - [Custom Own C++ Wrapper for MySQL C/C++ Connector](https://github.com/mathur-nitish/Wrapper-for-MySQL---Structured-Query-Language)<br>
-
+- [Excel Desktop Application - C#](https://github.com/mathur-nitish/Excel-DesktopApplication)
 # ML,DL and Data Science
 
 ## Projects
